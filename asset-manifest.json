@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GeneratorWhatsappLink/static/css/main.7519b287.chunk.css",
+    "main.js": "/GeneratorWhatsappLink/static/js/main.37e299db.chunk.js",
+    "main.js.map": "/GeneratorWhatsappLink/static/js/main.37e299db.chunk.js.map",
+    "runtime-main.js": "/GeneratorWhatsappLink/static/js/runtime-main.106327a1.js",
+    "runtime-main.js.map": "/GeneratorWhatsappLink/static/js/runtime-main.106327a1.js.map",
+    "static/js/2.c1368c58.chunk.js": "/GeneratorWhatsappLink/static/js/2.c1368c58.chunk.js",
+    "static/js/2.c1368c58.chunk.js.map": "/GeneratorWhatsappLink/static/js/2.c1368c58.chunk.js.map",
+    "index.html": "/GeneratorWhatsappLink/index.html",
+    "precache-manifest.2d383fe981af514a404a3604059333aa.js": "/GeneratorWhatsappLink/precache-manifest.2d383fe981af514a404a3604059333aa.js",
+    "service-worker.js": "/GeneratorWhatsappLink/service-worker.js",
+    "static/css/main.7519b287.chunk.css.map": "/GeneratorWhatsappLink/static/css/main.7519b287.chunk.css.map",
+    "static/js/2.c1368c58.chunk.js.LICENSE.txt": "/GeneratorWhatsappLink/static/js/2.c1368c58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.106327a1.js",
+    "static/js/2.c1368c58.chunk.js",
+    "static/css/main.7519b287.chunk.css",
+    "static/js/main.37e299db.chunk.js"
+  ]
+}
